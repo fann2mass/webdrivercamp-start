@@ -1,11 +1,11 @@
 Emacs
 
-0 - In Emacs, you can open a file using the 'find-file' command. This command is typically invoked by pressing 'C-x' 'C-f' (hold down the 'Ctrl' key while pressing 'x', then release both keys and press 'f'). 
-1 - To save a file in Emacs, you can use the 'save-buffer' command. This command is typically invoked by pressing 'C-x' 'C-s' (hold down the 'Ctrl' key while pressing 'x', then release both keys and press 's').
-2 - In Emacs, you can cut (delete) an entire line using the 'kill-whole-line' command. This command is typically invoked by pressing 'C-k' (hold down the 'Ctrl' key while pressing 'k'). 
-3 - To 'Paste' a text in Emacs: Position the cursor at the location where you want to paste the text. Press 'C-y' (hold down the 'Ctrl' key while pressing 'y').
-4 - To 'Undo' in Emacs: Position the cursor at the location where you want to perform the undo operation. Press 'C-x' 'u' (hold down the 'Ctrl' key while pressing 'x,' then release both keys and press 'u').
-5 - To 'Quit' in Emacs: Press 'C-x' 'C-c'.
+0 - 'C-x' 'C-f' - to 'Open' a file. 
+1 - 'C-x' 'C-s' - to 'Save'.
+2 - 'C-k' - to 'Delete'. 
+3 - 'C-y' - to 'Paste'.
+4 - 'C-x' 'u' - to 'Undo'
+5 - 'C-x' 'C-c' - to 'Quit'.
 
 Vim
 
