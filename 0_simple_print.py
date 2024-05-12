@@ -1,1 +1,2 @@
-print('Hello world')
+word = "Learning Python is fun"
+print(word + '"' + "'")
